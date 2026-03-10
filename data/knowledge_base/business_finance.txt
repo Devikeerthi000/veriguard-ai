@@ -1,0 +1,175 @@
+# Corporate Finance & Accounting
+Apple became the first company to reach a $3 trillion market capitalization in June 2023.
+The GAAP revenue recognition principle requires recognizing revenue when earned, not when cash is received.
+Depreciation methods include straight-line, declining balance, and units-of-production.
+The debt-to-equity ratio measures financial leverage and varies significantly by industry.
+EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) is a measure of operating performance.
+Working capital equals current assets minus current liabilities and indicates short-term financial health.
+The weighted average cost of capital (WACC) represents a firm's average cost of financing.
+Share buybacks reduce outstanding shares and can increase earnings per share without improving profitability.
+Off-balance-sheet financing includes operating leases and special purpose vehicles.
+The Sarbanes-Oxley Act of 2002 established new financial disclosure and audit requirements after Enron's collapse.
+Goodwill impairment testing is required annually and when indicators suggest value decline.
+Cash flow from operations is often considered more reliable than net income due to accrual manipulations.
+The current ratio (current assets divided by current liabilities) measures liquidity.
+Return on equity (ROE) measures profitability relative to shareholders' equity.
+Asset turnover ratio indicates how efficiently a company uses assets to generate revenue.
+Financial leverage amplifies both gains and losses for equity holders.
+The DuPont analysis decomposes ROE into profit margin, asset turnover, and financial leverage.
+Inventory valuation methods (FIFO, LIFO, weighted average) affect reported profits and taxes.
+The accounts receivable turnover ratio measures how quickly a company collects from customers.
+Capital expenditure decisions use discounted cash flow analysis and net present value calculations.
+
+# Banking & Monetary Policy
+The Federal Reserve System was established by the Federal Reserve Act of 1913.
+Fractional reserve banking allows banks to lend deposits while maintaining a reserve fraction.
+Central bank independence is associated with lower inflation rates in economic studies.
+The Taylor Rule suggests setting interest rates based on inflation and output gaps.
+Bank capital requirements under Basel III include Tier 1 and Tier 2 capital with minimum ratios.
+Quantitative easing expands the money supply by central bank purchases of government and other securities.
+The federal funds rate is the overnight lending rate between depository institutions.
+Liquidity coverage ratio requires banks to hold high-quality liquid assets covering 30-day outflows.
+Money market funds invest in short-term, low-risk securities and offer market-determined yields.
+Central bank digital currencies (CBDCs) could provide direct central bank access to consumers.
+Negative interest rates have been implemented in Japan, Switzerland, and the Eurozone.
+The money multiplier effect describes how base money expansion creates larger changes in money supply.
+Bank stress tests evaluate capital adequacy under adverse economic scenarios.
+Real-time gross settlement systems process payments individually and immediately.
+Letter of credit provides payment guarantee in international trade transactions.
+The discount rate is the interest rate at which banks borrow from the central bank's discount window.
+Forward guidance communicates future policy intentions to influence current expectations.
+Shadow banking includes non-bank financial intermediaries like money market funds and hedge funds.
+Bail-in mechanisms require creditors to absorb bank losses before taxpayer bailouts.
+Correspondent banking enables banks to access financial services in jurisdictions where they lack presence.
+
+# Insurance & Risk Management
+The law of large numbers underlies insurance by allowing mortality and loss prediction.
+Reinsurance transfers portions of risk from primary insurers to other insurance companies.
+Catastrophe bonds transfer insurance risk to capital markets investors.
+The combined ratio (loss ratio plus expense ratio) measures insurance underwriting profitability.
+Life expectancy tables form the basis for life insurance premium calculations.
+Insurance reserves must be sufficient to pay all expected future claims.
+Adverse selection occurs when high-risk individuals disproportionately purchase insurance.
+Moral hazard arises when insurance coverage reduces incentives to avoid losses.
+Enterprise risk management integrates risk oversight across organizational silos.
+Parametric insurance pays based on trigger events rather than actual losses.
+Lloyd's of London operates as a marketplace bringing together underwriters and brokers.
+Value-at-risk (VaR) estimates potential loss at a specified confidence level over a time period.
+Insurance density (premiums per capita) varies from over $4,000 in developed markets to under $50 in developing markets.
+The guaranty system protects policyholders when insurance companies fail.
+Cyber insurance premiums have grown rapidly as data breaches and ransomware attacks increase.
+The insurance cycle alternates between soft markets (low prices) and hard markets (high prices).
+Credit default swaps transfer default risk without transferring the underlying obligation.
+Terrorism Risk Insurance Act provides federal backstop for catastrophic terrorism losses.
+Insurance-linked securities enable capital markets investment in insurance risk.
+Parametric weather derivatives pay based on measured weather conditions like rainfall or temperature.
+
+# Real Estate & Property
+The Case-Shiller U.S. National Home Price Index reached record highs in 2022 before moderating.
+Cap rate (net operating income divided by property value) is a key commercial real estate metric.
+Real estate investment trusts (REITs) must distribute at least 90% of taxable income as dividends.
+The 30-year fixed-rate mortgage is relatively unique to the United States among global markets.
+Commercial real estate categories include office, retail, industrial, multifamily, and hospitality.
+Loan-to-value ratio is a primary consideration in mortgage underwriting.
+The 2008 financial crisis originated in subprime mortgage defaults and mortgage-backed securities.
+Property taxes are a main source of local government revenue in the United States.
+Net operating income equals rental income minus operating expenses excluding debt service.
+Real estate crowdfunding platforms have democratized access to property investments.
+The Internal Revenue Code Section 1031 allows tax-deferred like-kind property exchanges.
+Ground lease structures separate land ownership from building ownership.
+Opportunity zones offer tax incentives for investments in designated low-income communities.
+The debt service coverage ratio measures rental income relative to mortgage payments.
+PropTech encompasses technology applications in real estate transactions and management.
+Affordable housing requires subsidies because market rents exceed low-income households' ability to pay.
+Commercial mortgage-backed securities (CMBS) pool mortgages for securitization.
+Environmental site assessments identify contamination risks before property transactions.
+Zoning regulations control land use and affect property values and development potential.
+Build-to-rent developments construct single-family homes specifically for rental.
+
+# Private Equity & Venture Capital
+Private equity assets under management exceeded $13 trillion globally in 2023.
+The J-curve describes typical private equity fund returns: negative early years followed by positive later returns.
+Venture capital investments concentrate heavily in technology, healthcare, and consumer sectors.
+Unicorn startups (valued at $1 billion or more) numbered over 1,200 globally as of 2024.
+The typical private equity fund has a 10-year life with investment period and harvesting period.
+Carried interest compensation (typically 20% of profits) aligns manager and investor interests.
+Management fees for private equity funds typically range from 1.5% to 2% of committed capital.
+Series A, B, C funding rounds represent successive stages of venture capital investment.
+Leveraged buyouts use significant debt to finance acquisitions, with target company assets as collateral.
+Growth equity investments in mature companies represent a middle ground between venture and buyout.
+Secondary markets provide liquidity for limited partners seeking to sell fund interests.
+Co-investment opportunities allow limited partners to invest alongside funds in specific deals.
+Venture capital follows a power law distribution where a small percentage of investments generate most returns.
+PIPE (Private Investment in Public Equity) transactions provide capital to public companies outside public markets.
+Dry powder (uncommitted capital) in private equity exceeded $3 trillion in 2023.
+Special purpose acquisition companies (SPACs) peaked in 2021 before regulatory scrutiny increased.
+Continuation vehicles allow private equity funds to hold assets beyond initial fund life.
+Operational value creation has become more important as multiples expansion has slowed.
+Venture debt provides loans to venture-backed companies, complementing equity financing.
+Impact investing seeks both financial returns and measurable social or environmental benefits.
+
+# Cryptocurrency & Blockchain
+Bitcoin's genesis block was mined on January 3, 2009 by Satoshi Nakamoto.
+Ethereum introduced smart contracts, enabling programmable transactions on blockchain.
+Bitcoin's maximum supply is capped at 21 million coins by its protocol.
+Proof of stake consensus validates transactions based on staked cryptocurrency rather than computational power.
+The Lightning Network enables faster, cheaper Bitcoin transactions through payment channels.
+Decentralized finance (DeFi) protocols exceeded $50 billion in total value locked at peak.
+Non-fungible tokens (NFTs) use blockchain to establish uniqueness and ownership of digital assets.
+Bitcoin halving events occur approximately every four years, reducing block rewards by 50%.
+The Mt. Gox exchange collapse in 2014 resulted in loss of approximately 850,000 Bitcoin.
+Stablecoins maintain value pegged to fiat currencies through reserves or algorithmic mechanisms.
+The FTX exchange bankruptcy in November 2022 involved approximately $8 billion in missing customer funds.
+Ethereum transitioned from proof of work to proof of stake in September 2022 ("The Merge").
+Zero-knowledge proofs enable verification of information without revealing the information itself.
+Layer 2 solutions like rollups improve blockchain scalability by processing transactions off-chain.
+MEV (Maximal Extractable Value) allows validators to profit by ordering transactions strategically.
+Wrapped tokens represent assets from one blockchain on another blockchain.
+Liquidity pools enable decentralized exchange trading without traditional order books.
+Cryptocurrency mining energy consumption has attracted environmental criticism.
+Regulatory frameworks for cryptocurrencies vary significantly between jurisdictions.
+Self-custody through hardware wallets provides security independent of third-party custodians.
+
+# International Trade & Commerce
+Global trade volume exceeds $25 trillion annually, representing approximately 25% of world GDP.
+The World Trade Organization succeeded GATT in 1995 with 164 member states.
+Incoterms define responsibility for shipping, insurance, and customs clearance in international trade.
+Letters of credit provide payment security in international transactions.
+Trade finance facilitates approximately 80% of global trade through various instruments.
+Most favored nation status requires equal trade treatment for all WTO members with limited exceptions.
+Free trade agreements reduce or eliminate tariffs and trade barriers between member countries.
+Anti-dumping duties counteract selling goods below cost or home market prices.
+Rules of origin determine the national source of goods for tariff purposes.
+Export controls restrict transfer of sensitive technologies and goods to certain countries.
+Trade deficits occur when imports exceed exports in value.
+Customs valuation determines the taxable value of imported goods.
+Certificate of origin documents verify the country where goods were manufactured.
+Bonded warehouses defer duty payment until goods enter domestic commerce.
+Foreign trade zones allow duty-free import of goods for processing or re-export.
+Trade remedies include anti-dumping duties, countervailing duties, and safeguard measures.
+Export credit agencies provide government-backed financing for exports.
+Supply chain due diligence increasingly requires verification of labor and environmental standards.
+Digital trade agreements address e-commerce, data flows, and technology standards.
+Bilateral investment treaties protect foreign investments and provide dispute resolution mechanisms.
+
+# Taxation & Fiscal Policy
+The Laffer curve theorizes that tax revenue decreases beyond an optimal tax rate.
+Transfer pricing rules govern transactions between related parties across jurisdictions.
+Tax treaties prevent double taxation and address withholding rates between countries.
+The OECD Base Erosion and Profit Shifting (BEPS) project addresses multinational tax avoidance.
+Capital gains are generally taxed at lower rates than ordinary income in most jurisdictions.
+Tax loss harvesting realizes losses to offset gains and reduce tax liability.
+Estate taxes apply to wealth transfer at death, with exemptions varying by jurisdiction.
+Value-added tax (VAT) is collected at each stage of production and distribution.
+The statutory tax rate differs from effective tax rates due to deductions and credits.
+Qualified dividends receive preferential tax treatment in the United States.
+Section 199A allows pass-through business income deductions of up to 20%.
+Research and development tax credits incentivize innovation spending.
+The alternative minimum tax (AMT) ensures minimum tax payment regardless of deductions.
+Tax inversions relocate corporate headquarters to lower-tax jurisdictions.
+Opportunity zone investments qualify for capital gains tax deferral and reduction.
+1099 forms report various types of income to the Internal Revenue Service.
+The standard deduction versus itemized deduction choice affects taxable income.
+Estimated quarterly tax payments are required for income lacking withholding.
+Net investment income tax adds 3.8% to investment income above thresholds.
+Corporate tax rates vary globally from approximately 0% to over 35%.

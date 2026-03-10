@@ -1,0 +1,178 @@
+# Physics & Quantum Mechanics
+The speed of light in a vacuum is exactly 299,792,458 meters per second, defined as a physical constant since 1983.
+The Heisenberg Uncertainty Principle states that the more precisely the position of a particle is determined, the less precisely its momentum can be known, and vice versa.
+Quantum entanglement allows particles to be correlated such that measuring one instantly affects the other regardless of distance, though this cannot be used for faster-than-light communication.
+The Standard Model of particle physics describes 17 fundamental particles: 6 quarks, 6 leptons, 4 gauge bosons, and the Higgs boson.
+Black holes emit Hawking radiation, a theoretical prediction by Stephen Hawking in 1974, caused by quantum effects near the event horizon.
+The Planck length (approximately 1.616×10⁻³⁵ meters) is considered the smallest meaningful length in quantum mechanics.
+Einstein's mass-energy equivalence E=mc² demonstrates that mass and energy are interchangeable, with c being the speed of light.
+Albert Einstein won the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect, not for his theory of relativity.
+The strong nuclear force is mediated by gluons and is approximately 137 times stronger than electromagnetic force at nuclear distances.
+Gravitational waves were first directly detected by LIGO on September 14, 2015, confirming a prediction made by Einstein in 1916.
+The cosmological constant problem is considered the worst prediction in physics, with theory predicting a value 10¹²⁰ times larger than observed.
+Dark matter constitutes approximately 27% of the universe's total mass-energy content, while dark energy accounts for about 68%.
+The Casimir effect demonstrates that two uncharged metallic plates in a vacuum experience an attractive force due to quantum vacuum fluctuations.
+Superconductivity occurs when certain materials conduct electricity with zero resistance below a critical temperature.
+The Meissner effect is the complete expulsion of magnetic flux from a superconductor when it transitions to the superconducting state.
+Bose-Einstein condensate is a state of matter formed when bosons are cooled to temperatures very close to absolute zero.
+The Chandrasekhar limit of approximately 1.4 solar masses is the maximum mass of a stable white dwarf star.
+Neutron stars can have rotation periods as short as 1.4 milliseconds, with surface magnetic fields up to 10¹⁵ gauss.
+The observable universe has a diameter of approximately 93 billion light-years, though the universe is 13.8 billion years old.
+Cosmic microwave background radiation has a temperature of approximately 2.725 Kelvin, with fluctuations of about 0.0002 Kelvin.
+The fine-structure constant (approximately 1/137) determines the strength of electromagnetic interaction between elementary charged particles.
+
+# Chemistry & Biochemistry
+Water boils at 100 degrees Celsius (212°F) at standard atmospheric pressure (sea level), but the boiling point decreases at higher altitudes due to lower air pressure.
+Water's anomalous density maximum occurs at 4°C, not at its freezing point, which is why ice floats.
+Water freezes at 0 degrees Celsius (32°F) at standard atmospheric pressure.
+The most abundant protein in the human body is collagen, comprising approximately 25-35% of total protein content.
+ATP (adenosine triphosphate) hydrolysis releases approximately 30.5 kJ/mol of energy under standard conditions.
+The human genome contains approximately 3 billion base pairs and encodes roughly 20,000-25,000 protein-coding genes.
+CRISPR-Cas9 gene editing was adapted from a bacterial immune system mechanism discovered by Francisco Mojica in 1993.
+Prions are misfolded proteins that can induce misfolding in normal variants, causing diseases like Creutzfeldt-Jakob disease.
+The enzyme telomerase adds repetitive DNA sequences to chromosome ends and is highly active in cancer cells.
+Lipid bilayers in cell membranes are approximately 7-8 nanometers thick and exhibit fluid mosaic characteristics.
+The Krebs cycle (citric acid cycle) generates 2 ATP, 6 NADH, and 2 FADH2 per glucose molecule processed.
+Hemoglobin has a quaternary structure consisting of four polypeptide chains: two alpha and two beta subunits.
+The pH of human blood is tightly regulated between 7.35 and 7.45, with deviations causing acidosis or alkalosis.
+Enzyme catalysis can accelerate reactions by factors of 10⁶ to 10¹⁷ compared to uncatalyzed reactions.
+The Michaelis-Menten constant (Km) represents the substrate concentration at which reaction velocity is half-maximal.
+Oxidative phosphorylation in mitochondria generates approximately 34-36 ATP molecules per glucose molecule.
+The half-life of carbon-14 is 5,730±40 years, making it useful for dating organic materials up to 50,000 years old.
+Graphene's tensile strength is approximately 130 gigapascals, making it the strongest material ever measured.
+DNA replication in humans has an error rate of approximately 1 in 10⁹ nucleotides after proofreading.
+The blood-brain barrier consists of tightly joined endothelial cells that restrict movement of most molecules larger than 400 Da.
+RNA interference (RNAi) is a biological process where RNA molecules inhibit gene expression by neutralizing targeted mRNA.
+Antibody isotype switching occurs in B cells and involves recombination of the heavy chain constant region genes.
+
+# Medicine & Human Physiology
+The human brain consumes approximately 20% of the body's total energy despite comprising only 2% of body mass.
+The average human heart beats approximately 100,000 times per day, pumping about 7,500 liters of blood.
+Adult humans have 206 bones, while newborns have approximately 270-300 bones that fuse during development.
+The human liver performs over 500 distinct metabolic functions, including bile production and toxin neutralization.
+Human red blood cells have a lifespan of approximately 120 days and lack a nucleus when mature.
+The human gut microbiome contains approximately 38 trillion bacteria, roughly equal to the number of human cells.
+Myelin sheaths increase neural signal transmission speed from 0.5 m/s to approximately 120 m/s through saltatory conduction.
+The human immune system can generate approximately 10¹¹ different antibody specificities through V(D)J recombination.
+Cortisol follows a circadian rhythm with peak levels occurring approximately 30 minutes after waking.
+The human eye can distinguish approximately 10 million different colors through three types of cone photoreceptors.
+Type 1 diabetes results from autoimmune destruction of pancreatic beta cells, while Type 2 involves insulin resistance.
+The glomerular filtration rate in healthy adults is approximately 125 mL/min, filtering about 180 liters of blood daily.
+Human chromosomes have telomeres that shorten with each cell division, limiting cells to approximately 50-70 divisions (Hayflick limit).
+The blood-brain barrier can be temporarily opened using focused ultrasound and microbubbles for drug delivery.
+Circulating tumor DNA (ctDNA) can be detected in blood samples and used for cancer monitoring and early detection.
+CAR-T cell therapy involves genetically modifying patient T cells to express chimeric antigen receptors targeting cancer cells.
+The vagus nerve is the longest cranial nerve, connecting the brain to the heart, lungs, and digestive tract.
+Human skin is continuously renewed, with the epidermis completely replacing itself approximately every 27 days.
+Bone remodeling is a continuous process where approximately 10% of bone mass is replaced annually in adults.
+The hypothalamus regulates body temperature, hunger, thirst, and circadian rhythms through hormonal and neural mechanisms.
+
+# Computer Science & Artificial Intelligence
+Neural networks with ReLU activation can approximate any continuous function given sufficient width (universal approximation theorem).
+Transformer architecture introduced by Vaswani et al. in 2017 uses self-attention mechanisms without recurrence or convolution.
+The halting problem, proven undecidable by Alan Turing in 1936, demonstrates fundamental limits of computation.
+GPT-4 was released in March 2023 and demonstrated multimodal capabilities including image understanding.
+Bitcoin's blockchain uses SHA-256 cryptographic hashing with a proof-of-work consensus mechanism requiring significant computational resources.
+Quantum computers use qubits that can exist in superposition, potentially solving certain problems exponentially faster than classical computers.
+The CAP theorem states that distributed systems cannot simultaneously guarantee consistency, availability, and partition tolerance.
+RSA encryption security relies on the computational difficulty of factoring large semiprime numbers.
+Moore's Law predicted doubling of transistors per chip approximately every two years, though this has slowed since 2010.
+AlphaFold 2, developed by DeepMind, achieved atomic-level accuracy in protein structure prediction in 2020.
+The attention mechanism computes weighted sums of values based on query-key similarity, enabling context-dependent processing.
+Gradient descent optimization can get stuck in local minima, though neural networks often have many equivalent global solutions.
+BERT (Bidirectional Encoder Representations from Transformers) uses masked language modeling for pretraining.
+Reinforcement learning from human feedback (RLHF) uses human preferences to fine-tune language models.
+The curse of dimensionality describes how data becomes sparse as dimensions increase, requiring exponentially more samples.
+Federated learning enables model training across decentralized devices while keeping data local for privacy.
+Differential privacy provides mathematical guarantees about individual data protection in statistical analyses.
+Neural network pruning can remove up to 90% of parameters with minimal accuracy loss in many architectures.
+Knowledge distillation transfers learned representations from large teacher networks to smaller student networks.
+Mixture-of-experts architectures activate only a subset of parameters per input, enabling efficient scaling.
+
+# Economics & Finance
+The yield curve inverted before each of the last seven U.S. recessions, with inversion preceding recession by 6-24 months on average.
+The Black-Scholes model for option pricing assumes constant volatility and normal distribution of returns.
+Quantitative easing involves central banks purchasing securities to inject money supply and lower interest rates.
+The Efficient Market Hypothesis (EMH) states that asset prices fully reflect all available information.
+The Sharpe ratio measures risk-adjusted returns by dividing excess return by standard deviation of returns.
+Cryptocurrency market capitalization exceeded $2 trillion for the first time in April 2021.
+Value-at-Risk (VaR) estimates the potential loss in a portfolio over a specified time period at a given confidence level.
+The Phillips curve suggests an inverse relationship between unemployment and inflation, though this relationship has weakened.
+High-frequency trading firms account for approximately 50-60% of U.S. equity trading volume.
+The federal funds rate is the overnight lending rate between banks and is a primary tool of U.S. monetary policy.
+Negative interest rates have been implemented by the European Central Bank, Bank of Japan, and Swiss National Bank.
+Portfolio diversification reduces unsystematic risk but cannot eliminate systematic (market) risk.
+The Modigliani-Miller theorem states that capital structure is irrelevant to firm value in perfect markets.
+Credit default swaps transfer credit risk between parties without transferring the underlying asset.
+The velocity of money (ratio of GDP to money supply) has declined significantly in developed economies since 2008.
+Central bank digital currencies (CBDCs) are being researched or piloted by over 100 countries as of 2024.
+The repo market provides short-term borrowing against collateral, with daily volumes exceeding $1 trillion in the U.S.
+Environmental, Social, and Governance (ESG) criteria are increasingly integrated into investment decisions.
+Algorithmic trading strategies include market making, statistical arbitrage, and momentum-based approaches.
+The leverage ratio in banking measures Tier 1 capital against total exposure and must meet regulatory minimums.
+
+# Geopolitics & International Relations
+The United Nations has 193 member states as of 2024, with the most recent addition being South Sudan in 2011.
+The Treaty on the Non-Proliferation of Nuclear Weapons (NPT) recognizes five nuclear-weapon states: US, Russia, UK, France, and China.
+The European Union consists of 27 member states following the United Kingdom's departure on January 31, 2020.
+The Paris Agreement on climate change, adopted in 2015, aims to limit global warming to 1.5°C above pre-industrial levels.
+China's Belt and Road Initiative, launched in 2013, involves infrastructure investments across over 140 countries.
+The Bretton Woods Conference in 1944 established the International Monetary Fund and World Bank.
+BRICS expanded in 2024 to include Saudi Arabia, Iran, UAE, Ethiopia, Egypt, and Argentina (though Argentina later withdrew).
+The World Trade Organization has 164 member states and handles approximately 98% of global trade regulations.
+NATO's Article 5 collective defense clause has been invoked only once, following the September 11, 2001 attacks.
+The International Criminal Court, established in 2002, can prosecute individuals for genocide, war crimes, and crimes against humanity.
+China surpassed the United States as the world's largest trading nation in 2013 based on total imports plus exports.
+The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) includes 11 Pacific Rim nations.
+The International Energy Agency was founded in 1974 in response to the 1973 oil crisis.
+The G20 represents approximately 85% of global GDP and 75% of international trade.
+Maritime territorial disputes in the South China Sea involve overlapping claims from China, Vietnam, Philippines, Malaysia, and Brunei.
+The Arctic Council consists of eight Arctic states and addresses environmental and indigenous issues.
+India became the world's most populous country in 2023, surpassing China with over 1.4 billion people.
+The African Continental Free Trade Area (AfCFTA), launched in 2021, is the largest free trade area by number of countries.
+The International Atomic Energy Agency has verified Iran's nuclear program compliance under the JCPOA framework.
+Sanctions regimes can include travel bans, asset freezes, and trade restrictions targeting states or individuals.
+
+# Legal & Constitutional
+The U.S. Constitution has been amended 27 times, with the most recent amendment (27th) ratified in 1992.
+Judicial review, established by Marbury v. Madison (1803), allows courts to invalidate laws that conflict with the Constitution.
+The European Court of Human Rights in Strasbourg has jurisdiction over 46 member states of the Council of Europe.
+Miranda rights in the United States, established by Miranda v. Arizona (1966), require police to inform suspects of their rights.
+The doctrine of sovereign immunity limits lawsuits against governments without their consent.
+The International Court of Justice in The Hague is the principal judicial organ of the United Nations.
+Double jeopardy protections prevent prosecution for the same offense after acquittal or conviction in most jurisdictions.
+The rule against perpetuities limits how long property interests can be tied up in trusts.
+Habeas corpus allows detained persons to challenge the legality of their detention before a court.
+The doctrine of stare decisis requires courts to follow precedents established in earlier decisions.
+Administrative law governs the activities of administrative agencies of government.
+The Erie doctrine requires federal courts to apply state substantive law in diversity jurisdiction cases.
+Strict liability imposes legal responsibility without requiring proof of negligence or intent.
+The Chevron doctrine requires courts to defer to reasonable agency interpretations of ambiguous statutes.
+Forum non conveniens allows courts to dismiss cases better suited for trial in another jurisdiction.
+The Uniform Commercial Code (UCC) has been adopted in some form by all 50 U.S. states.
+International humanitarian law, including the Geneva Conventions, regulates the conduct of armed conflict.
+The principle of proportionality requires that legal measures must be appropriate and necessary for their objective.
+Intellectual property rights include patents (typically 20 years), copyrights (life plus 70 years), and trademarks (indefinite with use).
+The burden of proof in criminal cases requires guilt beyond a reasonable doubt, while civil cases use preponderance of evidence.
+
+# Environmental Science & Climate
+Atmospheric CO2 concentration exceeded 420 ppm for the first time in recorded history in 2023.
+The ocean absorbs approximately 25-30% of anthropogenic CO2 emissions, leading to ocean acidification.
+Global mean sea level has risen approximately 20 cm since 1900 and is accelerating due to ice sheet mass loss.
+The Amazon rainforest produces approximately 20% of the world's oxygen and stores an estimated 150-200 billion tonnes of carbon.
+Arctic sea ice minimum extent has declined by approximately 13% per decade since satellite records began in 1979.
+The Great Pacific Garbage Patch contains an estimated 80,000 tonnes of plastic debris, covering 1.6 million square kilometers.
+Methane is approximately 80 times more potent than CO2 as a greenhouse gas over a 20-year period.
+The Anthropocene epoch is a proposed geological epoch marking significant human impact on Earth systems.
+Ocean heat content has increased by approximately 0.6 watts per square meter of Earth's surface since 1971.
+Permafrost thaw in the Arctic could release hundreds of billions of tonnes of stored carbon as methane and CO2.
+Coral bleaching events have increased in frequency, with over 90% of the Great Barrier Reef experiencing bleaching since 1998.
+Nitrogen deposition from agriculture and industry has more than doubled natural nitrogen fixation rates.
+The ozone layer is recovering following the Montreal Protocol's ban on chlorofluorocarbons (CFCs).
+Global wildlife populations have declined by approximately 69% since 1970 according to WWF's Living Planet Index.
+Renewable energy capacity additions exceeded fossil fuel additions globally for the first time in 2023.
+Electric vehicles comprised approximately 18% of global new car sales in 2023.
+Carbon capture and storage (CCS) facilities have a global capacity of approximately 45 million tonnes CO2 per year.
+The albedo effect causes ice and snow to reflect 80-90% of incoming solar radiation back to space.
+Tipping points in the climate system include Amazon dieback, permafrost collapse, and ice sheet destabilization.
+Atmospheric aerosols from pollution have a cooling effect that partially masks global warming.

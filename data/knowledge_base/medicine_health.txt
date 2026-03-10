@@ -1,0 +1,175 @@
+# Medical Research & Clinical Trials
+The FDA approval process for new drugs typically takes 10-15 years and costs an average of $2.6 billion.
+Phase III clinical trials typically require 1,000-3,000 participants and last 2-4 years.
+mRNA vaccine technology, used in Pfizer-BioNTech and Moderna COVID-19 vaccines, took over 30 years to develop.
+CRISPR gene therapy received its first FDA approval in December 2023 for sickle cell disease treatment.
+The human microbiome project identified over 10,000 microbial species colonizing the human body.
+Immunotherapy checkpoint inhibitors (PD-1/PD-L1 blockers) have revolutionized treatment for melanoma and lung cancer.
+CAR-T cell therapies can cost over $400,000 per treatment and require patient-specific manufacturing.
+Alzheimer's disease is characterized by amyloid plaques and tau tangles, though causation remains debated.
+The blood-brain barrier restricts approximately 98% of small-molecule drugs from reaching brain tissue.
+Precision medicine approaches use genetic profiling to tailor cancer treatments to individual tumor mutations.
+Organ-on-a-chip technology mimics human physiology for drug testing, potentially reducing animal testing.
+Gene therapy using AAV vectors can treat inherited diseases like spinal muscular atrophy (SMA).
+The gut-brain axis describes bidirectional communication between gut microbiota and the central nervous system.
+Senolytic drugs selectively eliminate senescent cells, potentially treating age-related diseases.
+The cancer immunoediting theory describes three phases: elimination, equilibrium, and escape.
+Liquid biopsies can detect circulating tumor DNA (ctDNA) with sensitivity approaching traditional tissue biopsies.
+Antibody-drug conjugates (ADCs) deliver cytotoxic agents directly to cancer cells using antibody targeting.
+The Human Cell Atlas project aims to map all cell types in the human body.
+Optogenetics uses light-sensitive proteins to control genetically modified neurons with millisecond precision.
+Real-world evidence (RWE) from electronic health records increasingly complements clinical trial data.
+
+# Pharmacology & Drug Interactions
+Cytochrome P450 enzymes in the liver metabolize approximately 70-80% of clinically used drugs.
+Grapefruit juice inhibits CYP3A4, increasing blood levels of many medications including statins and immunosuppressants.
+The therapeutic index measures the ratio between toxic and therapeutic drug doses.
+Drug half-life determines dosing frequency and time to reach steady-state concentration (approximately 5 half-lives).
+Warfarin has over 200 known drug interactions due to its metabolism by CYP2C9 and CYP3A4.
+Pharmacogenomics identifies genetic variants affecting drug metabolism, including CYP2D6 poor/extensive metabolizers.
+First-pass metabolism in the liver can significantly reduce oral bioavailability of certain drugs.
+Prodrugs are inactive compounds that require metabolic conversion to their active form.
+Volume of distribution (Vd) indicates drug distribution between plasma and body tissues.
+Loading doses are used to rapidly achieve therapeutic concentrations for drugs with long half-lives.
+Enzyme inducers (e.g., rifampin) can reduce the effectiveness of oral contraceptives.
+QT prolongation risk requires cardiac monitoring for many psychiatric and antimicrobial medications.
+Nephrotoxicity is a significant concern with aminoglycoside antibiotics and cisplatin chemotherapy.
+Drug-induced liver injury (DILI) affects approximately 1 in 10,000-100,000 patients for most medications.
+Therapeutic drug monitoring is essential for narrow therapeutic index drugs like lithium and digoxin.
+Biologic medications are more complex than small molecules and cannot be directly replicated as generic equivalents.
+Receptor downregulation can cause tolerance to chronic drug exposure.
+Placebo effects can account for 15-30% of therapeutic responses in clinical trials.
+Drug resistance in bacteria develops through mutation, horizontal gene transfer, and selective pressure.
+Polypharmacy in elderly patients significantly increases adverse drug event risk.
+
+# Neuroscience & Cognitive Science
+The human brain contains approximately 86 billion neurons and 85 billion non-neuronal cells.
+Long-term potentiation (LTP) is a cellular mechanism underlying learning and memory formation.
+The prefrontal cortex continues developing until approximately age 25, affecting decision-making and impulse control.
+Default mode network activity is associated with mind-wandering, autobiographical memory, and theory of mind.
+Sleep plays a critical role in memory consolidation through hippocampal replay during slow-wave sleep.
+Mirror neurons fire both when performing an action and when observing another perform that action.
+Neuroplasticity allows the brain to reorganize neural pathways throughout life in response to experience.
+The hippocampus is essential for forming new episodic memories but not for retrieval of remote memories.
+Dopamine neurons in the ventral tegmental area encode reward prediction errors.
+Working memory capacity is limited to approximately 4±1 items without chunking strategies.
+The amygdala processes emotional information and is particularly responsive to threat-related stimuli.
+Synaptic pruning eliminates approximately 50% of synapses during adolescence.
+The blood-brain barrier is formed by tight junctions between cerebral endothelial cells.
+Glial cells, particularly astrocytes, play active roles in synaptic transmission and brain metabolism.
+Broca's area in the left inferior frontal gyrus is essential for speech production.
+Wernicke's area in the left posterior temporal lobe is critical for language comprehension.
+The central pattern generators in the spinal cord can produce rhythmic motor patterns without brain input.
+Cerebrospinal fluid is produced by the choroid plexus and circulates through the ventricular system.
+The enteric nervous system contains approximately 500 million neurons and can function independently of the brain.
+Chronic stress can cause hippocampal volume reduction and prefrontal cortex dysfunction.
+
+# Epidemiology & Public Health
+Herd immunity thresholds vary by disease: measles requires 95%, polio 80-85%, COVID-19 estimated at 70-90%.
+The 1918 influenza pandemic infected approximately 500 million people (one-third of global population).
+Life expectancy at birth in high-income countries has increased from approximately 50 years in 1900 to 80+ years today.
+Tobacco use causes approximately 8 million deaths annually worldwide, including 1.2 million from secondhand smoke.
+The global burden of disease has shifted from infectious diseases to non-communicable diseases over the past century.
+Case fatality rate measures deaths among confirmed cases, while infection fatality rate includes all infections.
+R0 (basic reproduction number) estimates how many people one infected person will infect in a susceptible population.
+Antibiotic resistance causes approximately 1.27 million deaths annually and threatens modern medicine.
+Vaccine hesitancy was identified by WHO as one of the top 10 global health threats in 2019.
+The DALY (disability-adjusted life year) combines years of life lost and years lived with disability.
+Obesity prevalence has nearly tripled worldwide since 1975, affecting approximately 650 million adults.
+Tuberculosis remains among the top 10 causes of death worldwide, with approximately 1.5 million deaths annually.
+Contact tracing effectiveness depends on speed, with delays beyond 3 days significantly reducing impact.
+Health disparities by socioeconomic status create life expectancy gaps of 10-15 years within countries.
+Air pollution causes approximately 7 million premature deaths annually according to WHO estimates.
+Universal health coverage could prevent millions of deaths and protect billions from financial hardship.
+The demographic transition describes the shift from high birth/death rates to low birth/death rates during development.
+Zoonotic diseases account for approximately 60% of infectious diseases and 75% of emerging pathogens.
+Micronutrient deficiencies affect over 2 billion people globally, with iron deficiency being most common.
+The epidemiological transition describes the shift from infectious disease mortality to chronic disease mortality.
+
+# Genetics & Genomics
+The human genome contains approximately 6.4 billion base pairs across 46 chromosomes.
+Single nucleotide polymorphisms (SNPs) occur approximately once every 300 nucleotides in the human genome.
+Genome-wide association studies (GWAS) have identified over 200,000 SNP-trait associations.
+Mitochondrial DNA is maternally inherited and contains 37 genes encoding proteins, rRNAs, and tRNAs.
+The HLA region on chromosome 6 is the most polymorphic region of the human genome.
+Copy number variations (CNVs) affect approximately 4.8-9.5% of the human genome.
+Epigenetic modifications including DNA methylation can be influenced by environment and transmitted across generations.
+Alternative splicing allows a single gene to produce multiple protein variants.
+The Y chromosome has lost approximately 97% of its genes over evolutionary time.
+Genetic imprinting causes some genes to be expressed only from the maternal or paternal allele.
+The 1000 Genomes Project cataloged over 88 million genetic variants across human populations.
+Polygenic risk scores combine effects of thousands of genetic variants for disease prediction.
+CRISPR-Cas9 can create double-strand breaks at specific genomic locations with approximately 70-80% efficiency.
+Non-coding RNAs, including miRNAs and lncRNAs, regulate gene expression without encoding proteins.
+Structural variants including insertions, deletions, and inversions affect millions of base pairs.
+Population bottlenecks have significantly reduced genetic diversity in some human populations.
+The genetic code is nearly universal across all life forms, with some exceptions in mitochondria.
+Homologous recombination during meiosis creates genetic diversity through crossover events.
+Mobile genetic elements (transposons) comprise approximately 45% of the human genome.
+Pharmacogenomic variants in genes like CYP2D6 and CYP2C19 affect drug metabolism in approximately 30% of people.
+
+# Surgical & Interventional Medicine
+Minimally invasive surgery reduces hospital stay, scarring, and recovery time compared to open procedures.
+Robotic surgery systems like da Vinci provide enhanced precision and 3D visualization for complex procedures.
+Transcatheter aortic valve replacement (TAVR) has become an alternative to open-heart surgery for valve disease.
+Organ transplant survival rates exceed 90% at one year for kidney, liver, and heart transplants.
+Immunosuppression following organ transplantation increases infection and cancer risk.
+Laparoscopic surgery uses small incisions and camera guidance for abdominal procedures.
+Stereotactic radiosurgery delivers precise radiation to tumors without surgical incision.
+Deep brain stimulation can improve symptoms in Parkinson's disease and treatment-resistant depression.
+The Whipple procedure (pancreaticoduodenectomy) has a mortality rate of approximately 2-5% at high-volume centers.
+Bariatric surgery can achieve diabetes remission in 60-80% of patients with type 2 diabetes.
+Surgical site infections occur in approximately 2-5% of inpatient surgical procedures.
+Nerve block anesthesia reduces opioid requirements and can improve postoperative outcomes.
+Surgical checklists have reduced complications by up to 36% and mortality by 47% in studies.
+Fluorescence-guided surgery uses dyes to identify tumor margins and lymph nodes intraoperatively.
+3D printing enables patient-specific surgical planning and custom implant fabrication.
+Intraoperative neurophysiological monitoring preserves nerve function during spine and brain surgery.
+Enhanced recovery after surgery (ERAS) protocols reduce hospital length of stay by 30%.
+Catheter ablation can cure atrial fibrillation in approximately 70-80% of patients.
+Extracorporeal membrane oxygenation (ECMO) provides temporary cardiac and respiratory support.
+Surgical antibiotic prophylaxis should be administered within 60 minutes before incision.
+
+# Diagnostic Medicine & Laboratory Science
+PCR (polymerase chain reaction) can amplify DNA sequences up to a billion-fold.
+ELISA (enzyme-linked immunosorbent assay) detects antibodies or antigens with high sensitivity.
+Reference ranges for laboratory tests are typically defined as the central 95% of healthy population values.
+Troponin elevation indicates cardiac myocyte injury and can be caused by conditions other than myocardial infarction.
+Hemoglobin A1c reflects average blood glucose over approximately 3 months.
+D-dimer has high sensitivity but low specificity for venous thromboembolism.
+Creatinine-based GFR estimates can be inaccurate in patients with muscle wasting or acute kidney injury.
+Procalcitonin levels help distinguish bacterial from viral infections and guide antibiotic use.
+Next-generation sequencing can identify pathogens by analyzing all genetic material in a sample.
+Point-of-care testing provides rapid results but may have lower accuracy than laboratory testing.
+Mass spectrometry can identify proteins and metabolites with high specificity.
+Flow cytometry analyzes multiple characteristics of individual cells in suspension.
+Radiomics extracts quantitative features from medical images for diagnosis and prognosis.
+Liquid chromatography separates compounds based on their interactions with stationary and mobile phases.
+Blood culture sensitivity for bacteremia is approximately 30-50% per individual culture.
+Molecular diagnostic panels can detect dozens of pathogens simultaneously from single specimens.
+Cerebrospinal fluid analysis can diagnose meningitis, encephalitis, and subarachnoid hemorrhage.
+Arterial blood gas analysis measures pH, oxygen, carbon dioxide, and bicarbonate levels.
+Immunohistochemistry uses antibodies to detect specific proteins in tissue sections.
+Genetic testing error rates include both false positives and false negatives requiring clinical correlation.
+
+# Mental Health & Psychiatry
+Major depressive disorder affects approximately 280 million people worldwide.
+Cognitive behavioral therapy (CBT) is effective for depression, anxiety, and PTSD with effect sizes comparable to medication.
+The serotonin hypothesis of depression has been questioned by recent meta-analyses.
+Schizophrenia affects approximately 1% of the global population and typically emerges in early adulthood.
+Electroconvulsive therapy (ECT) remains one of the most effective treatments for severe depression.
+Lithium reduces suicide risk in bipolar disorder patients and has neuroprotective effects.
+First-episode psychosis treatment within the first two weeks correlates with better long-term outcomes.
+Substance use disorders involve neuroplastic changes in reward and executive function circuits.
+Post-traumatic stress disorder involves hyperactivation of the amygdala and hypoactivation of the prefrontal cortex.
+Transcranial magnetic stimulation (TMS) is FDA-approved for treatment-resistant depression.
+Psilocybin has shown promising results in clinical trials for depression and addiction.
+MDMA-assisted psychotherapy has received breakthrough therapy designation for PTSD.
+Ketamine and esketamine provide rapid antidepressant effects through glutamatergic mechanisms.
+Borderline personality disorder responds well to dialectical behavior therapy (DBT).
+Autism spectrum disorder prevalence is approximately 1 in 36 children according to 2024 CDC estimates.
+ADHD affects approximately 5-7% of children and often persists into adulthood.
+Antipsychotic medications can cause metabolic syndrome and tardive dyskinesia with long-term use.
+Social determinants of health significantly impact mental health outcomes across populations.
+Mental health disorders frequently co-occur, with comorbidity rates exceeding 50%.
+Integrated care models improve outcomes for patients with co-occurring mental and physical health conditions.

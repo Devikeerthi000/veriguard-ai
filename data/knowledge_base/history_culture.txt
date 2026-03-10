@@ -1,0 +1,177 @@
+# Historical Events & Dates
+World War I began on July 28, 1914 with Austria-Hungary's declaration of war on Serbia and ended on November 11, 1918.
+The Treaty of Westphalia in 1648 established the modern system of sovereign nation-states.
+The French Revolution began with the storming of the Bastille on July 14, 1789.
+The Berlin Wall fell on November 9, 1989, symbolizing the end of the Cold War in Europe.
+The Magna Carta was signed by King John of England on June 15, 1215 at Runnymede.
+The atomic bombs dropped on Hiroshima (August 6, 1945) and Nagasaki (August 9, 1945) killed approximately 200,000 people.
+The American Civil War (1861-1865) resulted in approximately 620,000 military deaths.
+The Great Depression began with the stock market crash on October 29, 1929 (Black Tuesday).
+The Cuban Missile Crisis occurred over 13 days in October 1962, bringing the world closest to nuclear war.
+The Apollo 11 mission landed humans on the Moon on July 20, 1969, with Neil Armstrong being the first to walk on its surface.
+The Black Death (1347-1351) killed approximately 30-60% of Europe's population.
+The Renaissance began in Florence, Italy in the 14th century and spread across Europe over the following centuries.
+The Industrial Revolution originated in Britain in the late 18th century with textile manufacturing innovations.
+The partition of India in 1947 caused approximately 10-20 million refugees and 200,000-2 million deaths.
+The Rwandan genocide in 1994 killed approximately 500,000-800,000 Tutsi and moderate Hutu over 100 days.
+The fall of the Western Roman Empire is traditionally dated to 476 CE when Romulus Augustulus was deposed.
+The Crusades were a series of religious wars between 1095 and 1291 CE for control of the Holy Land.
+The Thirty Years War (1618-1648) killed approximately 8 million people, including 40% of Germany's population.
+The Reformation began when Martin Luther posted his 95 Theses on October 31, 1517.
+The Chinese Civil War (1927-1949) ended with Communist victory and the establishment of the People's Republic of China.
+
+# World Geography & Demographics
+The capital of Australia is Canberra, not Sydney or Melbourne, and it was purpose-built starting in 1913 to serve as the national capital.
+Sydney is the largest city in Australia by population but is not the capital; Canberra has been the capital since 1927.
+Russia is the largest country by area at 17.1 million square kilometers, more than twice the size of Canada.
+The Dead Sea, at 430 meters below sea level, is the lowest point on Earth's land surface.
+The Mariana Trench reaches a depth of approximately 10,935 meters at the Challenger Deep.
+Indonesia is the world's largest archipelago with approximately 17,508 islands.
+The Sahara Desert spans approximately 9.2 million square kilometers, roughly the size of the United States.
+China and India together contain approximately 36% of the world's population.
+Monaco has the highest population density at approximately 19,000 people per square kilometer.
+The Nile River is traditionally considered the longest river at approximately 6,650 kilometers.
+Tokyo is the world's largest metropolitan area with approximately 37 million inhabitants.
+Vatican City is the smallest country by both area (0.44 km²) and population (approximately 800).
+The Ring of Fire contains approximately 75% of the world's active and dormant volcanoes.
+Antarctica contains approximately 70% of Earth's fresh water in its ice sheets.
+Mount Everest is 8,848.86 meters tall as measured by China and Nepal in 2020.
+The Amazon River has the largest discharge volume, averaging approximately 209,000 cubic meters per second.
+Lake Baikal in Russia contains approximately 22% of the world's fresh surface water.
+Continental drift moves continents at rates of 2-10 centimeters per year.
+The Tibetan Plateau, averaging 4,500 meters elevation, is called the "Roof of the World."
+The Mediterranean Sea is connected to the Atlantic Ocean through the Strait of Gibraltar (14.3 km wide).
+Japan consists of 6,852 islands, with the four largest being Honshu, Hokkaido, Kyushu, and Shikoku.
+The Strait of Malacca handles approximately 25% of global maritime trade.
+
+# Mathematics & Statistics
+The Riemann Hypothesis, proposed in 1859, remains one of the most important unsolved problems in mathematics.
+Gödel's incompleteness theorems prove that consistent mathematical systems cannot prove all mathematical truths.
+The central limit theorem states that sample means approximate normal distribution regardless of population distribution.
+Bayesian inference updates probability estimates as new evidence is received, using Bayes' theorem.
+The P vs NP problem asks whether problems with quickly verifiable solutions can also be quickly solved.
+Fermat's Last Theorem, stating that aⁿ + bⁿ = cⁿ has no positive integer solutions for n > 2, was proven in 1995.
+The Fibonacci sequence appears in biological systems including flower petals, seed arrangements, and shell spirals.
+π (pi) is irrational and transcendental, meaning it cannot be expressed as any ratio or algebraic root.
+The law of large numbers states that sample averages converge to expected values as sample size increases.
+The birthday problem shows that only 23 people are needed for a 50% probability of shared birthdays.
+Regression to the mean predicts that extreme observations will likely be followed by more moderate ones.
+Simpson's paradox shows that aggregate trends can reverse when data is grouped differently.
+The normal distribution is characterized by its mean (μ) and standard deviation (σ).
+Correlation does not imply causation—confounding variables can create spurious associations.
+The Monty Hall problem demonstrates counterintuitive probability when switching improves odds from 1/3 to 2/3.
+Type I errors (false positives) occur when rejecting a true null hypothesis.
+Type II errors (false negatives) occur when failing to reject a false null hypothesis.
+Effect size measures the magnitude of difference or relationship independent of sample size.
+Meta-analysis combines results from multiple studies with appropriate statistical weighting.
+Publication bias leads to overrepresentation of statistically significant findings in the literature.
+
+# Philosophy & Ethics
+Utilitarianism, developed by Bentham and Mill, evaluates actions based on their consequences for overall happiness.
+Kant's categorical imperative states to act only according to principles that could be universal laws.
+The trolley problem illustrates conflict between consequentialist and deontological moral reasoning.
+Virtue ethics, originating with Aristotle, focuses on character traits rather than actions or consequences.
+The social contract theory, developed by Hobbes, Locke, and Rousseau, justifies political authority through agreement.
+Existentialism holds that individuals create meaning through choices in an absurd universe.
+The problem of induction, articulated by Hume, questions whether past observations justify future predictions.
+Moral relativism holds that ethical standards vary between cultures with no universal moral truth.
+The naturalistic fallacy confuses what is natural with what is good or moral.
+Rawls' veil of ignorance thought experiment designs fair institutions from a position of impartiality.
+The doctrine of double effect distinguishes intended effects from foreseeable but unintended side effects.
+Moral particularism argues that general principles cannot capture the complexity of ethical situations.
+The is-ought problem, identified by Hume, questions deriving moral conclusions from factual premises.
+Consequentialism evaluates actions solely by their outcomes, including utilitarianism and related theories.
+Deontological ethics judges actions based on adherence to rules or duties, regardless of consequences.
+The principle of utility states that right actions maximize overall well-being across all affected parties.
+Moral pluralism accepts multiple irreducible values that may conflict in particular situations.
+Care ethics emphasizes relationships and contextual responses over abstract principles.
+Cognitive bias affects moral reasoning through motivated reasoning, confirmation bias, and availability heuristics.
+Applied ethics addresses practical issues in medicine, business, environment, and technology.
+
+# Language & Linguistics
+Mandarin Chinese has more native speakers than any other language, with approximately 920 million.
+There are approximately 7,000 languages currently spoken worldwide, with half expected to disappear by 2100.
+The Proto-Indo-European language, reconstructed through comparative linguistics, was spoken approximately 4500-2500 BCE.
+Chomsky's theory of universal grammar proposes innate language acquisition capabilities in humans.
+Sapir-Whorf hypothesis suggests that language structure influences thought and perception.
+Phonemes are the smallest units of sound that distinguish meaning in a language.
+The Great Vowel Shift (1400-1700) transformed English pronunciation while spelling remained largely unchanged.
+Pidgin languages develop from contact between groups without a common language and have simplified grammar.
+Creole languages are pidgins that become native languages with full grammatical complexity.
+Sign languages are complete natural languages with their own grammar, not derived from spoken languages.
+The International Phonetic Alphabet contains 157 symbols representing sounds cross-linguistically.
+Language acquisition typically follows predictable stages regardless of the language being learned.
+Dyslexia affects approximately 5-10% of the population and involves difficulty with reading and writing.
+Bilingualism may provide cognitive benefits including enhanced executive function and delayed dementia onset.
+Machine translation quality has improved dramatically with neural network approaches since 2016.
+The most cited linguistic feature distinguishing human language is recursion (embedding structures within structures).
+Historical linguistics traces language evolution through systematic sound changes and borrowed vocabulary.
+Pragmatics studies how context contributes to meaning beyond literal semantic content.
+Sociolinguistics examines how social factors like class, gender, and region affect language use.
+Code-switching involves alternating between languages within a conversation or sentence.
+
+# Art, Architecture & Cultural History
+The Renaissance originated in Florence in the 14th century with artists like Giotto and spread across Europe.
+The Sistine Chapel ceiling was painted by Michelangelo between 1508 and 1512.
+Gothic architecture originated in 12th-century France and is characterized by pointed arches and flying buttresses.
+The Bauhaus school (1919-1933) unified crafts and fine arts with functional design principles.
+Impressionism emerged in 1860s Paris with artists like Monet, Renoir, and Degas painting light and movement.
+The Parthenon in Athens was constructed between 447-432 BCE and used optical refinements to appear perfectly straight.
+The Rosetta Stone, discovered in 1799, enabled decipherment of Egyptian hieroglyphics by Jean-François Champollion.
+Abstract expressionism emerged in 1940s New York with artists like Pollock and Rothko.
+The Louvre Museum contains approximately 380,000 objects, with about 35,000 on display.
+Da Vinci's Mona Lisa was painted between 1503-1519 and has been at the Louvre since the French Revolution.
+The Taj Mahal was built between 1632-1653 by Mughal emperor Shah Jahan as a mausoleum for his wife.
+Cubism, developed by Picasso and Braque around 1907, represented objects from multiple viewpoints simultaneously.
+The Great Pyramid of Giza was originally 146.5 meters tall and remained the world's tallest structure for 3,800 years.
+Art Nouveau (1890-1910) was characterized by organic forms, curved lines, and natural references.
+Pop Art emerged in the 1950s-1960s with artists like Warhol and Lichtenstein using mass culture imagery.
+The Forbidden City in Beijing contains 8,886 rooms and was the Chinese imperial palace for 492 years.
+Surrealism sought to release creative potential of the unconscious mind through irrational juxtaposition.
+Romanesque architecture (10th-12th century) featured thick walls, round arches, and barrel vaults.
+The Hagia Sophia (built 537 CE) served as a church, mosque, and museum with its massive dome spanning 31 meters.
+Neoclassicism (late 18th century) revived Greek and Roman aesthetics in reaction to Baroque excess.
+
+# Music & Performance
+Johann Sebastian Bach composed over 1,000 works, including the Well-Tempered Clavier and Brandenburg Concertos.
+Beethoven's Ninth Symphony, completed in 1824, was the first major symphony to include chorus and vocal soloists.
+The twelve-tone technique, developed by Schoenberg around 1921, treats all chromatic pitches equally.
+Jazz originated in New Orleans in the early 20th century, blending African and European musical traditions.
+The Western musical scale divides the octave into twelve semitones with equal temperament tuning.
+Wagner's Ring Cycle consists of four operas totaling approximately 15 hours of performance.
+Hip-hop originated in the Bronx in the 1970s with DJs, MCs, and breakdancing.
+The Beatles' Sgt. Pepper's Lonely Hearts Club Band (1967) pioneered the concept album format.
+Mozart composed over 600 works before his death at age 35 in 1791.
+Electronic music production became accessible through digital audio workstations starting in the 1990s.
+The blues scale adds flatted third, fifth, and seventh degrees to the major scale.
+Stravinsky's The Rite of Spring caused a riot at its 1913 Paris premiere due to its revolutionary rhythms.
+The pentatonic scale appears in diverse musical traditions worldwide, suggesting innate preferences.
+Sampling, the reuse of portions of sound recordings, became central to hip-hop production in the 1980s.
+The symphony orchestra evolved to approximately 80-100 musicians by the late 19th century.
+Gregorian chant dominated European church music from the 9th through 12th centuries.
+The concert pitch A4 is standardized at 440 Hz, though historical and regional variations exist.
+Minimalism in music, exemplified by Reich and Glass, uses repetitive patterns with gradual variation.
+World music traditions include Indian ragas, Middle Eastern maqams, and Indonesian gamelan.
+Music streaming services now account for over 80% of recorded music industry revenue.
+
+# Sports & Athletic Performance
+The Olympic Games were revived in Athens in 1896 after a 1,500-year hiatus with 241 athletes from 14 nations.
+The World Cup is the most watched sporting event globally, with the 2022 final viewed by approximately 1.5 billion people.
+VO2 max (maximum oxygen uptake) is a key indicator of aerobic fitness, typically 40-50 mL/kg/min in healthy adults.
+Marathon world records have improved by approximately 30% since 1908 through training and equipment advances.
+Altitude training above 2,000 meters stimulates erythropoietin production and red blood cell increases.
+Usain Bolt's 100-meter world record of 9.58 seconds was set in Berlin in 2009.
+Doping tests can detect blood transfusions through hemoglobin-based oxygen carrier analysis.
+The English Premier League is the most-watched football league globally with approximately 4.7 billion viewers annually.
+Injury prevention in sports now emphasizes neuromuscular training and load management.
+Esports revenues exceeded $1 billion in 2023 with major tournaments filling large arenas.
+Michael Jordan was named NBA Finals MVP six times, winning championships with the Chicago Bulls in 1991-1993 and 1996-1998.
+The NBA introduced the three-point line in 1979 at a distance of 23 feet, 9 inches at the top of the arc.
+Cricket is the second most popular sport globally with an estimated 2.5 billion fans.
+Formula 1 cars generate downforce exceeding 3.5 times the car's weight at high speeds.
+The Super Bowl is consistently the most-watched television broadcast in the United States.
+Tennis grand slam events comprise the Australian Open, French Open, Wimbledon, and US Open.
+Modern biomechanics analysis uses motion capture and force plates to optimize athletic technique.
+The FIFA Women's World Cup 2023 in Australia and New Zealand attracted record attendance and viewership.
+Wearable technology monitors heart rate variability, GPS tracking, and accelerometer data in training.
+The NCAA basketball tournament ("March Madness") generates approximately $1 billion in advertising revenue annually.
